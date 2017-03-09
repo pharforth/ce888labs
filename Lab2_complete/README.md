@@ -1,0 +1,1 @@
+Lab2 Involoved splitting the vehicles.csv data into new and proposed fleets. Then plotting histograms and scatter plots for this data
